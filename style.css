@@ -6,13 +6,13 @@ body {
 #titre {
     color:white;
     text-align:center;
-    margin-top: 15px;
+    margin-top: 1px;
 }
 
 #titre2 {
     color:white;
     text-align:center;
-    margin-top: 40px;
+    margin-top: 30px;
     font-size: 100px;
 }
 
@@ -753,4 +753,15 @@ body {
     border-style: solid;
     color: #15202B;
       
+}
+
+
+#intero {
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 20px;
+}
+
+#card {
+    height: 700px;
 }
