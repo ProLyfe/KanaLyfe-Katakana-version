@@ -1,0 +1,756 @@
+body {
+    margin: 0;
+    background-color: rgb(28, 47, 66);
+}
+
+#titre {
+    color:white;
+    text-align:center;
+    margin-top: 15px;
+}
+
+#titre2 {
+    color:white;
+    text-align:center;
+    margin-top: 40px;
+    font-size: 100px;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+
+/* A I U E O */
+
+
+#a {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#a:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#i {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#i:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#u {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#u:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#e {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#e:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#o {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#o:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+/* KA KI KU KE KO */
+
+#ka {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+    
+      
+}
+
+#ka:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ki {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ki:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ku {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ku:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ke {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ke:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ko {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ko:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+/* SA SHI SU SE SO */
+
+#sa {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#sa:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#shi {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#shi:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#su {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#su:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#se {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#se:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#so {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#so:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+
+/* TA CHI TSU TE TO */
+
+#ta {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ta:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#chi {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#chi:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#tsu {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#tsu:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#te {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#te:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#to {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#to:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+
+
+/* NA NI NU NE NO */
+
+#na {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#na:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ni {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ni:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#nu {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#nu:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ne {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ne:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#no {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#no:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+/* HA HI HU HE HO */
+
+#ha {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ha:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#hi {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#hi:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#fu {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#fu:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#he {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#he:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ho {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ho:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+
+/* MA MI MU ME MO */
+
+#ma {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ma:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#mi {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#mi:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#mu {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#mu:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#me {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#me:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#mo {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#mo:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+
+/* YA YU YO */
+
+#ya {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ya:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#yo {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#yo:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#yu {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#yu:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+
+
+
+/* RA RI RU RE RO */
+
+#ra {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+
+      
+}
+
+#ra:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ri {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ri:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ru {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ru:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#re {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#re:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#ro {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#ro:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+
+/* WA WO */
+
+#wa {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#wa:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+#wo {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#wo:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
+
+
+
+/* N */
+
+#n {
+    align-items: center;
+    border-style: solid;
+    color: white;
+    height: 70px;
+      
+}
+
+#n:hover {
+    align-items: center;
+    border-style: solid;
+    color: #15202B;
+      
+}
